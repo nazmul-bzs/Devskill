@@ -1,2 +1,1 @@
-# Devskill
-Devskill Solutions http://devskill.com/CodingProblems
+Solution of the problems of Devskill Online Judge that I solved.
